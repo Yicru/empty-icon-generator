@@ -5,7 +5,7 @@ const withOffline = require('next-offline');
 module.exports = withOffline(
   withCSS({
     transformManifest: manifest => ['/'].concat(manifest),
-    generateInDevMode: true,
+    generateInDevMode: false,
     workboxOpts: {
       swDest: 'static/service-worker.js',
       runtimeCaching: [

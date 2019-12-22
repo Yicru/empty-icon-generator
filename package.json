@@ -1,0 +1,39 @@
+{
+  "name": "empty-icon-generator",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/core": "^10.0.22",
+    "@emotion/styled": "^10.0.23",
+    "@zeit/next-css": "^1.0.1",
+    "autoprefixer": "^9.7.3",
+    "copy-to-clipboard": "^3.2.0",
+    "next": "^9.1.6",
+    "next-offline": "^4.0.6",
+    "postcss-import": "^12.0.1",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "tailwindcss": "^1.1.4",
+    "tailwindcss-animatecss": "^0.2.5",
+    "tailwindcss-transitions": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^16.9.4",
+    "@typescript-eslint/eslint-plugin": "^2.12.0",
+    "@typescript-eslint/parser": "^2.12.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.17.0",
+    "prettier": "^1.19.1",
+    "tailwind.macro": "^1.0.0-alpha.10",
+    "typescript": "^3.7.4"
+  }
+}

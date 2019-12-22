@@ -9,6 +9,11 @@ const Page: NextPage = () => (
     <Head>
       <title>Empty Icon Generator</title>
       <meta name="apple-mobile-web-app-title" content=" ‍ " />
+      <link
+        rel="apple-touch-icon"
+        sizes="180x180"
+        href="/apple-touch-icon.png"
+      />
     </Head>
     <div className="text-center">
       <div className="animated fadeInUp w-16 h-16 rounded-lg bg-white mb-5 mx-auto" />

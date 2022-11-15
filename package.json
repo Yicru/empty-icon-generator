@@ -20,7 +20,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "tailwindcss": "^1.1.4",
-    "tailwindcss-animatecss": "^0.2.5",
+    "tailwindcss-animatecss": "^0.3.3",
     "tailwindcss-transitions": "^2.1.0"
   },
   "devDependencies": {

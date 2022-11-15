@@ -6562,10 +6562,10 @@ tailwind.macro@^1.0.0-alpha.10:
     dset "^2.0.1"
     tailwindcss "^1.0.0-beta.8"
 
-tailwindcss-animatecss@^0.2.5:
-  version "0.2.5"
-  resolved "https://registry.yarnpkg.com/tailwindcss-animatecss/-/tailwindcss-animatecss-0.2.5.tgz#7d305b9450176784f2b991d8673d021323f80fb7"
-  integrity sha512-QHQv1eMZel3vuKWiDigjXLcpiabt0SQ2SYuwmZ83bzspXNtUxPfXzvVXqolcLespRvY+pntljy9SA1haUfLNYg==
+tailwindcss-animatecss@^0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/tailwindcss-animatecss/-/tailwindcss-animatecss-0.3.3.tgz#71c354becb0d4324d6868c2cd9d3ffbc5efee455"
+  integrity sha512-x251ZA571mruMTy+VVq+u57J9q/4uB9PQPsOZMp+0ZFUQ63xylT9Wk8GxkYgIm6E4jh6Oo3IFU3Xk935v9dN0w==
 
 tailwindcss-transitions@^2.1.0:
   version "2.1.0"
